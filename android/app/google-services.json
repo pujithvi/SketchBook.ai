@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1044942354361",
+    "project_id": "sketchbook-eadcd",
+    "storage_bucket": "sketchbook-eadcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044942354361:android:092bfa1a6499c2d0012868",
+        "android_client_info": {
+          "package_name": "com.bhelpuritech.sketchbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044942354361-jpeg2k0ensqmnsvkjb225f1adik962r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhelpuritech.sketchbook",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1044942354361-qvd913etd4i3mfdg98l9j9ctb9lh4v5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvrThBrqiS-w1bCgiG5Qxan2yDsnz5ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044942354361-qvd913etd4i3mfdg98l9j9ctb9lh4v5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044942354361-q8t9rcninge71cap8htqg8qtakguvvso.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bhelpuritech.sketchbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
