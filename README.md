@@ -1,7 +1,3 @@
-# SketchBook
+# SketchBook.ai
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Welcome to our HackGTX project which allows you to relive your memories in an AI generated sketchbook!
