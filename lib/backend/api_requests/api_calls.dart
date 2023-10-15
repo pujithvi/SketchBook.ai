@@ -19,7 +19,7 @@ class WizModelCall {
       headers: {
         'Content-type': 'application/json',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTcyMzYyNzIsInVzZXJfaWQiOiI2NTI5YzUyZmI5ODBiMjg4ZDU5NTdlZmEifQ.KCX5XZpaSHh0gAckAFCygZmQcE1FSzUfA4oo5SzdRDo',
+            'Bearer YOUR_API_KEY',
       },
       params: {},
       body: ffApiRequestBody,
